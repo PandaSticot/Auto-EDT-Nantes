@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      6.0
 // @description  Apprend ton choix et le retient pour toujours.
-// @author       Gemini
+// @author       PandaSticot
 // @match        https://edt-v2.univ-nantes.fr/*
 // @grant        none
 // ==/UserScript==
